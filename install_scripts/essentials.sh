@@ -12,4 +12,5 @@ sudo pacman -S \
     nodejs \
     npm \
     tmux \
+    foot \
     wget
