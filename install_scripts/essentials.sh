@@ -5,6 +5,7 @@ sudo pacman -S --noconfirm --needed \
     tldr \
     git \
     go \
+    bitwarden \
     cmake \
     ninja \
     neovim \
