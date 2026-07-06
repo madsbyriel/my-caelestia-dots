@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-sudo pacman -S --noconfirm --needed \
+sudo pacman -S \
     base-devel \
     tldr \
     git \
