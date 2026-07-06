@@ -13,4 +13,9 @@ sudo pacman -S \
     npm \
     tmux \
     foot \
+    discord \
+    pipewire \
+    xdg-desktop-portal \
+    xdg-desktop-portal-hyprland \
+    spotify-launcher \
     wget
